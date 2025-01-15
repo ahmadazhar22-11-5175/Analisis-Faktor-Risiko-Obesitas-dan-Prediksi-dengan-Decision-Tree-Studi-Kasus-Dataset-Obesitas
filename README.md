@@ -1,0 +1,2 @@
+# Analisis-Faktor-Risiko-Obesitas-dan-Prediksi-dengan-Decision-Tree-Studi-Kasus-Dataset-Obesitas
+Deskripsi Proyek:  Proyek ini bertujuan untuk menganalisis faktor risiko obesitas dan membangun model prediktif untuk mengklasifikasikan tingkat obesitas menggunakan algoritma Decision Tree. Selain itu, proyek ini juga menerapkan K-Means Clustering untuk mengelompokkan data obesitas dan mengidentifikasi pola-pola yang tersembunyi.
